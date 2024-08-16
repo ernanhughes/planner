@@ -1,0 +1,15 @@
+fastapi==0.112.1
+bcrypt==4.2.0
+beanie==1.26
+email-validator==2.2.0
+httpx==0.22.0
+Jinja2==3.0.3
+motor==3.1.1
+passlib==1.7.4
+pytest==7.1.2
+python-multipart==0.0.9
+python-dotenv==0.20.0
+python-jose==3.3.0
+sqlmodel==0.0.6
+uvicorn==0.17.6
+anyio
